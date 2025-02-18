@@ -1,2 +1,3 @@
-## Task 1 Basic Microservice Setup und Configuration
-## Task 2: Configuring a relational In-Memory DB in a Spring Boot Application
+## Task 1 Basic Microservice Setup und Configuration: task1-service-setup
+## Task 2: Configuring a relational In-Memory DB in a Spring Boot Application: task2-h2-db
+## Task 3: REST API with JPA: task3-rest-patient-service
