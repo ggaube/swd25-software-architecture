@@ -1,0 +1,5 @@
+patientservice\PatientApp.class
+patientservice\PatientService.class
+patientservice\PatientRepository.class
+patientservice\Patient.class
+patientservice\PatientController.class
